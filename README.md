@@ -5,10 +5,11 @@ Currently included:
 3. React (react, react-dom)
 4. React Hot Loader
 5. Base app structure and babel, webpack config
+6. TypeScript (typescript, ts-loader)
 
 ## STATUS: Working (stable)
 
-**Used articles**
+**Used articles**  
 [Creating a React App… From Scratch.](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658)
 
 
