@@ -6,7 +6,7 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const devMode = process.env.NODE_ENV !== 'production';
 
 module.exports = {
-    entry: './src/index.tsx',
+    entry: './root/index.tsx',
     devtool: 'inline-source-map',
     mode: 'development',
     module: {
@@ -36,7 +36,7 @@ module.exports = {
         filename: 'bundle.js',
     },
     devServer: {
-        contentBase: path.join(__dirname, 'public/'),
+        contentBase: path.join(__dirname, 'root/'),
         port: 3000,
         publicPath: 'http://localhost:3000/dist/',
         hotOnly: true,

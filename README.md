@@ -4,9 +4,10 @@ Currently included:
 2. Webpack (webpack, webpack-cli, webpack-dev-server, style-loader, css-loader, babel-loader)
 3. React (react, react-dom)
 4. React Hot Loader
-5. Base app structure and babel, webpack config
-6. TypeScript (typescript, ts-loader)
-7. esLinter and Prettier installed and configured
+5. TypeScript (typescript, ts-loader)
+6. esLinter and Prettier installed and configured
+7. SASS installed and configured
+8. Base App structure
 
 ## STATUS: Working (stable)
 
