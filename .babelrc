@@ -1,3 +1,7 @@
 {
-  "presets": ["@babel/env", "@babel/preset-react"]
+  "presets": ["@babel/env", "@babel/preset-react"],
+  "dependencies": {
+    "react-hot-loader": "^4.8.3",
+    "@hot-loader/react-dom": "^16.8.6"
+  }
 }

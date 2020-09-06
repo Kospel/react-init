@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { hot } from 'react-hot-loader';
+import { hot } from 'react-hot-loader/root';
 
 class App extends Component {
     render() {
@@ -11,4 +11,4 @@ class App extends Component {
     }
 }
 
-export default hot(module)(App);
+export default hot(App);
