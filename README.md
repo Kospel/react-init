@@ -8,6 +8,7 @@ Currently included:
 6. esLinter and Prettier installed and configured
 7. SASS installed and configured
 8. Base App structure
+9. React Router (without init config)
 
 ## STATUS: Working (stable)
 
